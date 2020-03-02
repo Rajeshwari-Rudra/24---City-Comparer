@@ -6,7 +6,5 @@ console.log(city2.length);
 function myFunction() {
 
    return  Math.min(city1.length, city2.length);
-   
-
-
-}
+   }
+   document.getElementById("city").innerHTML = ;
