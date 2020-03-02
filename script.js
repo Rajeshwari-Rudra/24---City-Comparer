@@ -1,5 +1,7 @@
 let city1 = "Missouri";
 let city2 = "Maryville";
+console.log(city1.length);
+console.log(city2.length);
 
 function myFunction() {
 
