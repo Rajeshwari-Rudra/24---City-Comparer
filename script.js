@@ -3,7 +3,7 @@ let city2 = "Maryville";
 
 function myFunction() {
 
-    Math.min(city1.length, city2.length)
+   return  Math.min(city1.length, city2.length);
    
 
 
